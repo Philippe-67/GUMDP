@@ -1,0 +1,8 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GUMDP/v17/.wsuo
+/.vs/VSWorkspaceState.json
+/Generer_un_mot_de_passe/.vs/Generer_un_mot_de_passe/FileContentIndex/efd3a451-79db-49ad-be31-9086cb2455cb.vsidx
+/Generer_un_mot_de_passe/.vs/Generer_un_mot_de_passe/v17/.suo
